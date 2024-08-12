@@ -3,7 +3,7 @@
 # Aayush Rauniyar(@Aayush1545)
 # Bipin Khatiwada(@BipinKhatiwada)
 # Abbal Adhikari(@AbbalAdhikari)
-# Dhiraj Shah
+# Dhiraj Shah(@dhiraj-7x7x)
 
 This project is a console-based implementation of the classic Checkers game written in C++. The game features a fully interactive board, supports two-player gameplay, and allows for saving and loading game states. It's designed with a focus on clean, modular code and uses several C++ Standard Library features, including std::vector, std::string, and file I/O operations.
 
