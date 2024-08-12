@@ -1,7 +1,7 @@
 # Checkers game
 # Team Members:
 # Aayush Rauniyar
-# bipin Khatiwada
+# Bipin Khatiwada
 # Abbal Adhikari
 # Dhiraj Shah
 
@@ -21,6 +21,6 @@ To compile and run the project, ensure you have a C++ compiler installed (e.g., 
 ```
 git clone https://github.com/yourusername/checkers-game.git
 cd checkers-game
-g++ -o checkers CheckersGame.cpp Piece.cpp -std=c++11
+g++ -o checkers main.cpp CheckersGame.cpp Piece.cpp -std=c++11
 ./checkers ```
  
