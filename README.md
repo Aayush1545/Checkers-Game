@@ -1,7 +1,7 @@
 # Checkers game
 # Team Members:
 # Aayush Rauniyar(@Aayush1545)
-# Bipin Khatiwada
+# Bipin Khatiwada(@BipinKhatiwada)
 # Abbal Adhikari(@AbbalAdhikari)
 # Dhiraj Shah
 
